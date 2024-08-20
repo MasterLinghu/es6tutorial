@@ -4,7 +4,7 @@
 
 - [ECMAScript® 2015 Language Specification](https://www.ecma-international.org/ecma-262/6.0/index.html): ECMAScript 2015 规格
 - [ECMAScript® 2016 Language Specification](https://www.ecma-international.org/ecma-262/7.0/): ECMAScript 2016 规格
-- [ECMAScript® 2017 Language Specification](https://tc39.github.io/ecma262/)：ECMAScript 2017 规格（草案）
+- [ECMAScript® 2017 Language Specification](https://tc39.github.io/ecma262/)：ECMAScript 2017 规格（草案） 
 - [ECMAScript Current Proposals](https://github.com/tc39/ecma262): ECMAScript 当前的所有提案
 - [ECMAScript Active Proposals](https://github.com/tc39/proposals): 已经进入正式流程的提案
 - [ECMAScript proposals](https://github.com/hemanth/es-next)：从阶段 0 到阶段 4 的所有提案列表
